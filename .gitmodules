@@ -1,0 +1,3 @@
+[submodule "lib/dojo"]
+	path = lib/dojo
+	url = https://github.com/dojo/dojo
